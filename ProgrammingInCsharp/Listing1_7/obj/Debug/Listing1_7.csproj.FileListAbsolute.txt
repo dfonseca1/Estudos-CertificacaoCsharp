@@ -1,0 +1,6 @@
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\bin\Debug\Listing1_7.exe.config
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\bin\Debug\Listing1_7.exe
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\bin\Debug\Listing1_7.pdb
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\obj\Debug\Listing1_7.exe
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\obj\Debug\Listing1_7.pdb
+C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_7\obj\Debug\Listing1_7.csprojResolveAssemblyReference.cache
