@@ -1,5 +1,0 @@
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_9\bin\Debug\Listing1_9.exe.config
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_9\bin\Debug\Listing1_9.exe
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_9\bin\Debug\Listing1_9.pdb
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_9\obj\Debug\Listing1_9.exe
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_9\obj\Debug\Listing1_9.pdb

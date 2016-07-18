@@ -1,6 +1,0 @@
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\bin\Debug\Listing1_6.exe.config
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\bin\Debug\Listing1_6.exe
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\bin\Debug\Listing1_6.pdb
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\obj\Debug\Listing1_6.exe
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\obj\Debug\Listing1_6.pdb
-C:\Users\dfonseca\documents\visual studio 2015\Projects\ProgrammingInCsharp\Listing1_6\obj\Debug\Listing1_6.csprojResolveAssemblyReference.cache
